@@ -6,7 +6,7 @@ image: /images/sPoA.png
 categories: research
 author: "Niket Parikh"
 authors: "<strong>Niket Parikh</strong>, Rupal Nigam, Max Z. Li, Huy T. Tran"
-venue: "AIAA SciTech Forum 2025"
+venue: "AIAA SciTech Forum"
 link: https://doi.org/10.2514/6.2025-1929
 slides: 
 code: https://github.com/npnike10/state-dependent-price-of-anarchy

@@ -6,7 +6,7 @@ image: /images/IRLsurvey.png
 categories: research
 author: "Niket Parikh"
 authors: "Rupal Nigam, Jimin Choi, <strong>Niket Parikh</strong>, Max Z. Li, Huy T. Tran"
-venue: "AIAA SciTech Forum 2025"
+venue: "AIAA SciTech Forum"
 link: https://doi.org/10.2514/6.2025-1540
 code: 
 website: 
