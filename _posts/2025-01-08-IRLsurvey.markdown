@@ -7,6 +7,7 @@ categories: research
 author: "Niket Parikh"
 authors: "Rupal Nigam, Jimin Choi, <strong>Niket Parikh</strong>, Max Z. Li, Huy T. Tran"
 venue: "AIAA SciTech Forum"
+special:
 link: https://doi.org/10.2514/6.2025-1540
 code: 
 website: 

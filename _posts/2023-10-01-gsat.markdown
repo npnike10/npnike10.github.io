@@ -7,6 +7,7 @@ categories: research
 author: "Niket Parikh"
 authors: " Rupal Nigam, <strong>Niket Parikh</strong>, Mikihisa Yuasa, Huy T. Tran"
 venue: "Advances in Multi-Agent Learning - Coordination, Perception, and Control Workshop, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+special:
 link: https://djhanove.github.io/IROS23_MRS/assets/papers/IROS_MRS_2023_AdhocTeams.pdf
 code: 
 website:
