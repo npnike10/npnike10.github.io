@@ -47,7 +47,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/circle_bw_crop.jpg">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/my_photo_circ.png">
             </td>
           </tr>
         </table>
@@ -77,7 +77,11 @@
               {{post.authors}}
 
               <br>
+              {% if post.venue %}
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% else %}
+              {{ post.date | date: "%Y" }}
+              {% endif %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a>
