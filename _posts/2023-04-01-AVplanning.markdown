@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Behavior Planning for Autonomous Vehicles"
-date:   2023-04-01 22:21:59 +00:00
-image: /images/AVplanning.png
+date:   
+image: niketparikh.github.io/images/AVplanning.png
 categories: research
 author: "Niket Parikh"
 authors: "<strong>Niket Parikh</strong>, Huy T. Tran"
-venue: ""
+venue:
 arxiv: 
 code: 
 website: 
