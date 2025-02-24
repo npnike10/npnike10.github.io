@@ -6,7 +6,7 @@ image: /images/sPoA.png
 categories: research
 author: "Niket Parikh"
 authors: "<strong>Niket Parikh</strong>, Rupal Nigam, Max Z. Li, Huy T. Tran"
-special: Finalist, Intelligent Systems Best Student Paper
+special: (Intelligent Systems Best Student Paper Finalist)
 venue: "AIAA SciTech Forum"
 link: https://doi.org/10.2514/6.2025-1929
 slides: 
