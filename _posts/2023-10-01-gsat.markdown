@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Coordination in Ad-Hoc Teams with Generalized Policy Improvement"
+date:   2023-10-01 22:21:59 +00:00
+image: /images/gsat.png
+categories: research
+author: "Niket Parikh"
+authors: " Rupal Nigam, <strong>Niket Parikh</strong>, Mikihisa Yuasa, Huy T. Tran"
+venue: "Advances in Multi-Agent Learning - Coordination, Perception, and Control Workshop, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+link: https://djhanove.github.io/IROS23_MRS/assets/papers/IROS_MRS_2023_AdhocTeams.pdf
+code: 
+website:
+---
+We develop a method for zero-shot coordination with an ad-hoc team, by leveraging successor features and generalized policy improvement. We also derive performance bounds for transferring policies to ad-hoc teams, and empirically demonstrate the efficiency and effectiveness of our method. 

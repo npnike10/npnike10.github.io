@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Inefficiency of Self-Interested Behaviour in Markov Games: State-Dependent Price of Anarchy"
+date:   2025-01-09 10:30:00 -06:00
+image: /images/sPoA.png
+categories: research
+author: "Niket Parikh"
+authors: "<strong>Niket Parikh</strong>, Rupal Nigam, Max Z. Li, Huy T. Tran"
+venue: "AIAA SciTech Forum 2025"
+link: https://doi.org/10.2514/6.2025-1929
+slides: 
+code: https://github.com/npnike10/state-dependent-price-of-anarchy
+website: 
+---
+We introduce state-dependent price of anarchy (sPoA) metric, that extends the well-known game theoretical metric, PoA, to Markov games. We also empirically show the benefit of incorporating state-dependence in the metric, and investigate underlying reasons for observed sPoA trends using heuristic metrics for agent behavior.
