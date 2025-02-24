@@ -78,7 +78,7 @@
 
               <br>
               <!-- {% if post.venue %} -->
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} <span style="font-weight: bold; color: red;">{post.special}</span>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}  <span style="font-weight: bold; color: red;">{{(post.special)}}</span>
               <!-- {% else %}
               {{ post.date | date: "%Y" }}
               {% endif %} -->
