@@ -2,7 +2,7 @@
 layout: post
 title:  "Coordination in Ad-Hoc Teams with Generalized Policy Improvement"
 date:   2023-10-01 22:21:59 +00:00
-image: niketparikh.github.io/images/gsat.png
+image: ../images/gsat.png
 categories: research
 author: "Niket Parikh"
 authors: " Rupal Nigam, <strong>Niket Parikh</strong>, Mikihisa Yuasa, Huy T. Tran"

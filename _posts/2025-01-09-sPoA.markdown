@@ -2,7 +2,7 @@
 layout: post
 title:  "Inefficiency of Self-Interested Behaviour in Markov Games: State-Dependent Price of Anarchy"
 date:   2025-01-09 10:30:00 -06:00
-image: niketparikh.github.io/images/sPoA.png
+image: ../images/sPoA.png
 categories: research
 author: "Niket Parikh"
 authors: "<strong>Niket Parikh</strong>, Rupal Nigam, Max Z. Li, Huy T. Tran"
