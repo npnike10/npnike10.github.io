@@ -2,7 +2,7 @@
 layout: post
 title:  "Survey of Current Applications of Inverse Reinforcement Learning in Aviation and Future Outlooks"
 date:   2025-01-08 14:00:00 -06:00
-image: niketparikh.github.io/images/IRLsurvey.png
+image: /images/IRLsurvey.png
 categories: research
 author: "Niket Parikh"
 authors: "Rupal Nigam, Jimin Choi, <strong>Niket Parikh</strong>, Max Z. Li, Huy T. Tran"
