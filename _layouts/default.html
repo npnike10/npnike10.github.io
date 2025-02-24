@@ -77,11 +77,11 @@
               {{post.authors}}
 
               <br>
-              {% if post.venue %}
+              <!-- {% if post.venue %} -->
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
-              {% else %}
+              <!-- {% else %}
               {{ post.date | date: "%Y" }}
-              {% endif %}
+              {% endif %} -->
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a>
